@@ -6,6 +6,8 @@ The project involves detecting gestures from WiFi packets using the RSS values. 
 The majority of the codebase was forked from [https://github.com/titu1994/LSTM-FCN.git](https://github.com/titu1994/LSTM-FCN.git)
 
 The original codebase contains a LSTM-FCN model and an attention based LSTM-FCN model. For our needs we have only applied to the baseline LSTM-FCN model as it achieved reasonable results. 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13hrYU_LfKJHxtbwVhUFvzwzAIu4PHnBK?usp=sharing)
+
 
 ## Requirements 
 
