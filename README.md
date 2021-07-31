@@ -38,7 +38,7 @@ The project folder contains two data folders. One folder contains CSV files labe
 ### CSV Files
 The following CSV files contains beacon frame information exported from a wireshark pcapng file. These CSV files have been manually cleaned to contain only the frame times and the RSS values. Only the frames between 0 and 200 seconds are stored in these files. 
 
-The data collection procedure was completed in 4 rounds. Each round was completed by performing and collecting the RSS data from the 3 gestures. 
+The data collection procedure was completed in 4 sessions. Each session was completed by performing and collecting the RSS data from the 3 gestures. 
 
 The 3 gestures selected are vertical hand gesture, wave up and down gesture and push and pull gesture. 
 
@@ -46,7 +46,7 @@ The CSV files are labeled in the following format:
 
 ```
 
-[Gesture Name]_[Round Number].csv
+[Gesture Name]_[Session Number].csv
 
 ```
 
