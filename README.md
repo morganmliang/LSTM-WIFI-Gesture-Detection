@@ -85,6 +85,7 @@ The folder also contains the 4 fold cross validation split used on the 240 gestu
 To train the following model run the following command:
 
 ```
+
 python all_datasets_training.py
 
 ```
@@ -106,6 +107,7 @@ To evaluate the model comment out the following line in all_datasets_training.py
 
 
 ```
+
 train_model(model, did, dataset_name_, epochs=2000, batch_size=128,normalize_timeseries=normalize_dataset)
 
 ```
