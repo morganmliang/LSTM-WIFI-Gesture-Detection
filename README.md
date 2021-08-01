@@ -136,7 +136,7 @@ Classification Report for Split 3
 
 Classification Report for Split 4
 
-![split 4](https://github.com/morganmliang/COMP4336_Proj/blob/b24c50babf7896b31475c819173a36dc5ab14852/cla_report_4.JPG)
+![split 4](https://github.com/morganmliang/COMP4336_Proj/blob/f34d47e07c0c2b23222a2839c4cc84ba6d8b5bee/cla_report_4.JPG)
 
 
 
