@@ -124,7 +124,7 @@ This will skip the training process and only evaluate the model.
 
 Classification Report for Split 1
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://github.com/morganmliang/COMP4336_Proj/blob/0072f02af152b7548486a1aa436f7e33684834df/cla_report_1.JPG)
 
 Classification Report for Split 2
 
