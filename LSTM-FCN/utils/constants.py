@@ -1,7 +1,7 @@
-TRAIN_FILES = ['../data//RSS_TRAIN4',  # 0
+TRAIN_FILES = ['../data//RSS_TRAIN_240',  # 0
                ]
 
-TEST_FILES = ['../data//RSS_TEST4',  # 0
+TEST_FILES = ['../data//RSS_TEST_240',  # 0
               ]
 
 MAX_SEQUENCE_LENGTH_LIST = [27, # 0
