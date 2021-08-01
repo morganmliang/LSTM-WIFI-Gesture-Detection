@@ -102,7 +102,8 @@ if __name__ == "__main__":
     ]
 
     # Number of cells
-    CELLS = [8, 64, 128]
+    #CELLS = [8, 64, 128]
+    CELLS = [8]
 
     # Normalization scheme
     # Normalize = False means no normalization will be done
@@ -145,7 +146,7 @@ if __name__ == "__main__":
                 print('*' * 20, "Training model for dataset %s" % (dname), '*' * 20)
 
                 # comment out the training code to only evaluate !
-                train_model(model, did, dataset_name_, epochs=50, batch_size=2,
+                train_model(model, did, dataset_name_, epochs=2000, batch_size=2,
                             normalize_timeseries=normalize_dataset)
 
                 acc = evaluate_model(model, did, dataset_name_, batch_size=2,
