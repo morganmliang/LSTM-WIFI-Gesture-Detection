@@ -120,6 +120,24 @@ train_model(model, did, dataset_name_, epochs=2000, batch_size=128,normalize_tim
 This will skip the training process and only evaluate the model. 
 
 
+## Results 
+
+Classification Report for Split 1
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+Classification Report for Split 2
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+Classification Report for Split 3
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+Classification Report for Split 4
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 
 
 
