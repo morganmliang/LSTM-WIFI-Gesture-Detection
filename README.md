@@ -124,19 +124,19 @@ This will skip the training process and only evaluate the model.
 
 Classification Report for Split 1
 
-![Image of Yaktocat](https://github.com/morganmliang/COMP4336_Proj/blob/0072f02af152b7548486a1aa436f7e33684834df/cla_report_1.JPG)
+![split 1](https://github.com/morganmliang/COMP4336_Proj/blob/0072f02af152b7548486a1aa436f7e33684834df/cla_report_1.JPG)
 
 Classification Report for Split 2
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![split 2](https://github.com/morganmliang/COMP4336_Proj/blob/6941503a3d478f8c9349736d64fb5fefcb7c0c5e/cla_report_2.JPG)
 
 Classification Report for Split 3
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![split 3](https://github.com/morganmliang/COMP4336_Proj/blob/b24c50babf7896b31475c819173a36dc5ab14852/cla_report_3.JPG)
 
 Classification Report for Split 4
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![split 4](https://github.com/morganmliang/COMP4336_Proj/blob/b24c50babf7896b31475c819173a36dc5ab14852/cla_report_4.JPG)
 
 
 
