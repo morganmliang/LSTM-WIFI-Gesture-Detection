@@ -122,21 +122,7 @@ This will skip the training process and only evaluate the model.
 
 ## Results 
 
-Classification Report for Split 1
-
-![split 1](https://github.com/morganmliang/COMP4336_Proj/blob/0072f02af152b7548486a1aa436f7e33684834df/cla_report_1.JPG)
-
-Classification Report for Split 2
-
-![split 2](https://github.com/morganmliang/COMP4336_Proj/blob/6941503a3d478f8c9349736d64fb5fefcb7c0c5e/cla_report_2.JPG)
-
-Classification Report for Split 3
-
-![split 3](https://github.com/morganmliang/COMP4336_Proj/blob/b24c50babf7896b31475c819173a36dc5ab14852/cla_report_3.JPG)
-
-Classification Report for Split 4
-
-![split 4](https://github.com/morganmliang/COMP4336_Proj/blob/f34d47e07c0c2b23222a2839c4cc84ba6d8b5bee/cla_report_4.JPG)
+Classification Reports for each split can be found in /cla_report_1.JPG, /cla_report_2.JPG, /cla_report_3.JPG, /cla_report_4.JPG
 
 
 
