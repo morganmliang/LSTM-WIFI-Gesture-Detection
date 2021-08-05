@@ -7,7 +7,7 @@ The majority of the codebase was forked from [https://github.com/titu1994/LSTM-F
 
 The original codebase contains a LSTM-FCN model and an attention based LSTM-FCN model. For our needs we have only applied to the baseline LSTM-FCN model as it achieved reasonable results. 
 
-This project can be run on colab. Import the following folder in colab and run the commands to train and test the model.
+This project can be run on colab. Import the following LSTM-FCN folder into colab and run the commands to train and test the model. This will train and evaluate the model on the first split of the 240 sized dataset.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13hrYU_LfKJHxtbwVhUFvzwzAIu4PHnBK?usp=sharing)
 
@@ -122,7 +122,7 @@ This will skip the training process and only evaluate the model.
 
 ## Results 
 
-Classification Reports for each split can be found in /cla_report_1.JPG, /cla_report_2.JPG, /cla_report_3.JPG, /cla_report_4.JPG
+The results of the model can be found in the project video. This folder also includes extra results; classification Reports for each split can be found in /cla_report_1.JPG, /cla_report_2.JPG, /cla_report_3.JPG, /cla_report_4.JPG
 
 
 
