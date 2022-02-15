@@ -1,4 +1,4 @@
-# COMP4336_Proj
+# WIFI Gesture Detection
 
 ## Introduction 
 The project involves detecting gestures from WiFi packets using the RSS values. This project tunes a LSTM-FCN model based of the following paper [LSTM Fully Convolutional Networks for Time Series Classification](https://ieeexplore.ieee.org/document/8141873).
